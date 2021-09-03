@@ -1,0 +1,25 @@
+total 0
+drwxrwxr-x. 2 a_petuhova a_petuhova  25 Sep  3 15:26 .
+drwx------. 9 a_petuhova a_petuhova 232 Sep  3 15:25 ..
+-rw-rw-r--. 1 a_petuhova a_petuhova   0 Sep  3 15:26 ex5_out.txt
+total 4
+drwxrwxr-x. 2 a_petuhova a_petuhova  40 Sep  3 15:27 .
+drwx------. 9 a_petuhova a_petuhova 232 Sep  3 15:25 ..
+-rw-rw-r--. 1 a_petuhova a_petuhova 184 Sep  3 15:26 ex5_out.txt
+-rw-rw-r--. 1 a_petuhova a_petuhova   0 Sep  3 15:27 ex5.txt
+total 4
+drwxrwxr-x. 2 a_petuhova a_petuhova  40 Sep  3 15:27 .
+drwx------. 9 a_petuhova a_petuhova 232 Sep  3 15:25 ..
+-rw-rw-r--. 1 a_petuhova a_petuhova 429 Sep  3 15:27 ex5_out.txt
+-rw-rw-r--. 1 a_petuhova a_petuhova   0 Sep  3 15:27 ex5.txt
+total 4
+drwxrwxr-x. 2 a_petuhova a_petuhova  40 Sep  3 15:27 .
+drwx------. 9 a_petuhova a_petuhova 232 Sep  3 15:25 ..
+-rw-rw-r--. 1 a_petuhova a_petuhova 674 Sep  3 15:28 ex5_out.txt
+-rwxrw-rwx. 1 a_petuhova a_petuhova   0 Sep  3 15:27 ex5.txt
+total 12
+drwxrwxr-x. 2 a_petuhova a_petuhova   60 Sep  3 15:34 .
+drwx------. 9 a_petuhova a_petuhova  232 Sep  3 15:25 ..
+-rw-rw-r--. 1 a_petuhova a_petuhova 6628 Sep  3 15:34 ex5_hist.txt
+-rw-rw-r--. 1 a_petuhova a_petuhova  919 Sep  3 15:28 ex5_out.txt
+-rwxrwxrwx. 1 a_petuhova a_petuhova    0 Sep  3 15:27 ex5.txt

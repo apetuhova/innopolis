@@ -1,0 +1,16 @@
+  318  mkdir ex5
+  319  cd ex5
+  320  ls -la
+  321  ls -la >>ex5_out.txt
+  322  vi ex5_out.txt
+  323  touch ex5.txt
+  324  ls -la >>ex5_out.txt
+  325  vi ex5_out.txt
+  326  chmod ugo-x ex5.txt
+  327  ls -la >>ex5_out.txt
+  328  chmod uo+rwx ex5.txt
+  329  ls -la >>ex5_out.txt
+  330  ls - la
+  331  ls -la
+  332  chmod g=rwx ex5.txt
+  333  history >>ex5_hist.txt
