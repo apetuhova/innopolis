@@ -1,2 +1,0 @@
-./abc/dz.txt
-./xyz/DZ1
